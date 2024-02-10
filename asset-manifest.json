@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.9f42380e.css",
+    "main.js": "/react-gh-pages/static/js/main.48349e9e.js",
+    "static/js/787.e53f9a69.chunk.js": "/react-gh-pages/static/js/787.e53f9a69.chunk.js",
+    "static/media/prayingmantis_screenshot.jpg": "/react-gh-pages/static/media/prayingmantis_screenshot.fe16134ae4a912dab0ef.jpg",
+    "static/media/profilePhoto.png": "/react-gh-pages/static/media/profilePhoto.984ab27023242de4d9a4.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.9f42380e.css.map": "/react-gh-pages/static/css/main.9f42380e.css.map",
+    "main.48349e9e.js.map": "/react-gh-pages/static/js/main.48349e9e.js.map",
+    "787.e53f9a69.chunk.js.map": "/react-gh-pages/static/js/787.e53f9a69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f42380e.css",
+    "static/js/main.48349e9e.js"
+  ]
+}
